@@ -1,5 +1,5 @@
 # Snake-Water-Gun
-Before running the .exe file make sure you have python in your respective system Install tkinter using pip in your system After completing all these run the .exe file For Linux, click the file and run with *wine
+Before running the .exe file make sure you have python in your respective system Install tkinter and random using pip in your system After completing all these run the .exe file For Linux, click the file and run with *wine
 
 Motive: To give you the experience of playing Snake, Water and Gun the childhood game we all played.
 
