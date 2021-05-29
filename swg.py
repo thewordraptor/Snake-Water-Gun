@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-import os
 import random
-from time import time,sleep
 from tkinter import *
 #Window
 root = Tk()
